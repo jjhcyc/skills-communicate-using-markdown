@@ -5,3 +5,6 @@ Here is some test text
 
 ```
 std::cout << "Test code block" << std::endl;
+- [] Test task 1
+- [] Test task 2
+- [] Test task 3
